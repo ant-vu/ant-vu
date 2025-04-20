@@ -1,11 +1,17 @@
-## 🐍 My Contributions
+```go
+package main
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ant-vu/ant-vu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ant-vu/ant-vu/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ant-vu/ant-vu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+import "fmt"
 
-<hr>
+type Profile map[string]any
+
+func main() {
+    anthonyVu := Profile{
+        "workExperience": "SWE @ Citi",
+        "education":      "McMaster CS '24",
+        "awards":         "Schulich Leader '20",
+    }
+
+    fmt.Println(anthonyVu)
+}
+```
