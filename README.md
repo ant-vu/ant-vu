@@ -1,40 +1,11 @@
-```typescript
-type Profile = {
-    [key: string]: any;
-};
+## 🐍 My Contributions
 
-const anthonyVu: Profile = {
-    workExperience: "SWE @ Citi",
-    education: "McMaster CS '24",
-    awards: "Schulich Leader '20",
-    programming: [
-        "Python",
-        "TypeScript",
-        "JavaScript",
-        "Scala",
-        "Java",
-        "C++",
-        "C",
-        "C#",
-        "Go",
-        "Rust",
-        "Assembly",
-        "CSS",
-        "HTML",
-        "R",
-        "SQL",
-    ],
-    tools: [
-        "Angular",
-        "React",
-        "Next.js",
-        "Express",
-        "Node.js",
-        "MongoDB",
-        "Docker",
-        "Kubernetes",
-        "Google Cloud",
-        "Microsoft Azure",
-    ],
-};
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ant-vu/ant-vu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ant-vu/ant-vu/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ant-vu/ant-vu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
